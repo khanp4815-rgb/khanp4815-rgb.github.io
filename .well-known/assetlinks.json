@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.khanp4815_rgb.twa",
+        "sha256_cert_fingerprints": ["58:F9:E1:DB:CF:D4:FF:6F:E3:8B:8C:B7:0A:5B:6D:14:9B:B6:91:74:E5:1A:B2:44:BD:CF:F9:46:1B:4E:D3:D3"]
+      }
+    }]
